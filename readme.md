@@ -8,13 +8,13 @@ The coding challenge is posted on [Google Drive](https://docs.google.com/documen
 
 ## Built With
 
-- [jQuery](https://jquery.com/)
 - [Bootstrap](https://getbootstrap.com/)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [FontAwesome](https://fontawesome.com/)
 
 ## Installation
 
-To install and run this project locally, you will need to have jQuery, Bootstrap, and a web server to serve your HTML files. You can use any local server setup you prefer.
+To install and run this project locally, you will need to have a web server to serve your HTML files. You can use any local server setup you prefer.
 
 ## Usage
 
